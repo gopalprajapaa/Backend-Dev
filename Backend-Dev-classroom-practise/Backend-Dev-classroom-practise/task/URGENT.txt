@@ -1,6 +1,0 @@
-
-Ticket ID: TKT-84919
-Name: Satvik
-Issue: LoginFail
-Priority: high
-----------------------
